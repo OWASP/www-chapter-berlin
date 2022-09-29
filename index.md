@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Berlin
 tags: example-tag
 region: European Union
-meetup-group:
+meetup-group: https://www.meetup.com/de-DE/berlin-devsecops-meetup-group/
 
 ---
 
