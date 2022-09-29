@@ -6,6 +6,7 @@ tags: germany, berlin
 region: Europe
 meetup-group: de-DE/berlin-devsecops-meetup-group/
 country: Germany
+postal-code: 10117
 
 ---
 
