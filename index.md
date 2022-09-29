@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Berlin
 tags: germany, berlin
-region: European Union
+region: Europe
 meetup-group: de-DE/berlin-devsecops-meetup-group/
 country: Germany
 
