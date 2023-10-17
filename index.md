@@ -20,7 +20,7 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events 
 
-Check out our [Upcoming Events](https://owasp.org/www-chapter-berlin#div-nextevent)
+Check out our [Upcoming Events](https://www.meetup.com/de-DE/owasp-berlin/events/)
 
 ## What's going to happen?
 To be announced via our [OWASP Berlin Chapter Meetup Group](https://www.meetup.com/berlin-devsecops-meetup-group).
