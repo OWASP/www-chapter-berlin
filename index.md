@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Berlin
 tags: germany berlin
 region: Europe
-meetup-group: de-DE/berlin-devsecops-meetup-group/
+meetup-group: /owasp-berlin/
 country: Germany
 postal-code: 10117
 
@@ -20,10 +20,10 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events 
 
-Check out our [Upcoming Events](https://www.meetup.com/de-DE/owasp-berlin/events/)
+Check out our [Upcoming Events](https://www.meetup.com/owasp-berlin/events/)
 
 ## What's going to happen?
-To be announced via our [OWASP Berlin Chapter Meetup Group](https://www.meetup.com/berlin-devsecops-meetup-group).
+To be announced via our [OWASP Berlin Chapter Meetup Group](https://www.meetup.com/owasp-berlin/).
 We usually have a key note and 1-2 (lightning) talks that related to information and application security.
 
 ## Further Notes
@@ -32,7 +32,7 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 ## Information about Berlin Chapter Events
 
 ### When?
-We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. 
+We will be running a chapter meetup every quarter with the option to have additional events such as hands-on workshops. 
 
 ### Where?
 We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup]([http://www.meetup.com/OWASP-Berlin](https://www.meetup.com/berlin-devsecops-meetup-group). 
