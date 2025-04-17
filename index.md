@@ -16,15 +16,13 @@ Welcome to OWASP Berlin Chapter, a regional city chapter within [OWASP Germany](
 
 Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
 
-Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
-
 ## Upcoming Events 
 
 Check out our [Upcoming Events](https://www.meetup.com/owasp-berlin/events/)
 
 ## What's going to happen?
 To be announced via our [OWASP Berlin Chapter Meetup Group](https://www.meetup.com/owasp-berlin/).
-We usually have a key note and 1-2 (lightning) talks that related to information and application security.
+We usually have 3 talks of 20 minutes each with a 10-minute time slot to ask questions. Afterwards, you wil have time to mingle with the other participants.
 
 ## Further Notes
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
@@ -35,7 +33,7 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 We will be running a chapter meetup every quarter with the option to have additional events such as hands-on workshops. 
 
 ### Where?
-We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup]([http://www.meetup.com/OWASP-Berlin](https://www.meetup.com/berlin-devsecops-meetup-group). 
+We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](https://www.meetup.com/owasp-berlin/).
 
 ## Organization
 
