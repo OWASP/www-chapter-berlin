@@ -33,7 +33,7 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 We will be running a chapter meetup every quarter with the option to have additional events such as hands-on workshops. 
 
 ### Where?
-We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](https://www.meetup.com/owasp-berlin/).
+We do run a mix of in-person and virtual meetups. All our upcoming events are announced in the Meetup group: [OWASP Berlin](https://www.meetup.com/owasp-berlin/).
 
 ## Organization
 
