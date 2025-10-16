@@ -1,0 +1,27 @@
+leaders:
+  - name: Andreas Heppner
+    email: andreas.heppner@owasp.org
+  - name: F. Sebastian Mack
+    email: sebastian.mack@owasp.org
+  - name: Ali Yazdani
+    email: ali.yazdani@owasp.org
+    github: Ali-Yazdani
+location:
+  country: Germany
+  country_code: DE
+  region: Berlin
+  city: Berlin
+  postal_code: '10117'
+  latitude: 52.555980899999994
+  longitude: 13.534926824096683
+meetup_group: /owasp-berlin/
+name: OWASP Berlin
+repositories:
+  - name: www-chapter-berlin
+    url: https://github.com/OWASP/www-chapter-berlin
+    description: OWASP Foundation Web Repository
+tags:
+  - germany
+  - berlin
+  - custom-tag-1
+website: https://owasp.org/www-chapter-berlin
